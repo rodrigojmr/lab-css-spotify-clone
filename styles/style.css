@@ -45,7 +45,7 @@ html {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .heading-2 {
@@ -133,7 +133,7 @@ body {
 .hero__text {
   font-size: 1.2rem;
   line-height: 1.5;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .section-1 {
@@ -184,6 +184,7 @@ body {
 
 .feature-card__text {
   font-size: 1.4rem;
+  font-weight: 300;
 }
 
 .section-2 {
@@ -244,6 +245,7 @@ body {
 
 .section-2__text {
   font-size: 1.3rem;
+  font-weight: 300;
 }
 
 .section-2__text:not(:last-child) {
